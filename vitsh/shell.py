@@ -134,6 +134,7 @@ def init():
     register_command("vit", vit)
     register_command("ffcs", ffcs)
     register_command("moodle", moodle)
+    register_command("cricket", cricket)
 
 
 def main():

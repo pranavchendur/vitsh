@@ -6,3 +6,4 @@ from vitsh.builtins.history import history
 from vitsh.builtins.vit import vit
 from vitsh.builtins.ffcs import ffcs
 from vitsh.builtins.moodle import moodle
+from vitsh.builtins.cricket import cricket
